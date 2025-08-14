@@ -43,8 +43,6 @@ Een praktische, end‑to‑end onderzoeksrepo (Python) die laat zien hoe ik **sc
     └── The Paradox of Sponsorship.pdf
 ```
 
-> **Note**: Place your copies of the two files into `notebooks/` and `docs/` before committing.
-
 ---
 
 ## Getting started
